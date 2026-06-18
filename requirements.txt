@@ -1,0 +1,8 @@
+# No external dependencies required.
+# This project uses only the Python standard library.
+#
+# Python version:
+# python >= 3.10
+#
+# OpenRouter support is implemented with urllib from the standard library.
+# Configure it through .env using OPENROUTER_API_KEY.
