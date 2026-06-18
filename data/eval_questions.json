@@ -1,0 +1,11 @@
+[
+  {"question":"How should I rotate a laptop for an offboarded employee?","expected":["it_asset_offboarding#0"]},
+  {"question":"What is the rule for sharing customer exports?","expected":["customer_data#0"]},
+  {"question":"How quickly must security incidents be reported?","expected":["security_incidents#0"]},
+  {"question":"Can interns see compensation planning documents?","expected":["compensation_planning#0"]},
+  {"question":"What should I do before deploying a production service?","expected":["release_checklist#0"]},
+  {"question":"How are vendor invoices approved?","expected":["vendor_invoices#0"]},
+  {"question":"What does the remote work policy require?","expected":["remote_work#0"]},
+  {"question":"How are secrets handled in code?","expected":["secrets_management#0"]}
+]
+
